@@ -1,0 +1,11 @@
+class ClawEduCapsules:
+
+    def get_capsule(self, trigger):
+
+        capsules = {
+            "overtrading": "Overtrading is a major cause of retail losses.",
+            "revenge_trading": "Trading after losses increases emotional bias.",
+            "risk_exposure": "Always limit risk per trade."
+        }
+
+        return capsules.get(trigger, "Stay disciplined.")

@@ -1,105 +1,108 @@
 # 🐺 HachiClaw AI
 
-HachiClaw AI is a Behavioral Intelligence Layer designed to enhance the Binance user experience by analyzing trading behavior rather than market prices.
+Behavioral Intelligence Layer for Safer Crypto Trading
 
-Most retail traders do not lose because of lack of information — they lose because of emotional decisions, impulsive trading and poor risk exposure.
+HachiClaw AI is a conceptual AI system designed to help crypto traders become more aware of behavioral risks during trading.
 
-HachiClaw AI introduces a new AI layer designed to observe user behavior patterns and provide intelligent guidance without restricting user autonomy.
+Instead of focusing only on market predictions, HachiClaw analyzes trader behavior patterns and detects signals that may indicate emotional escalation or impulsive decisions.
 
----
-
-## Core Concept
-
-Inspired by the heterochromatic eyes of a Husky, HachiClaw uses a **Dual Vision AI system**:
-
-🔵 Opportunity Vision  
-Detects potential opportunity patterns in user actions.
-
-🟠 Risk Vision  
-Detects hidden behavioral risks and emotional volatility.
-
-Instead of acting as a trading bot, HachiClaw acts as a **behavioral guardian** that helps users maintain rational decision making.
+Inspired by the idea of dual perception, the system observes both market context and trader behavior.
 
 ---
 
-## Key Features
+## 🧠 The Problem
 
-### Behavioral DNA
-Builds a behavioral profile for each user based on:
+Many retail traders lose funds not because they lack market information, but because of behavioral reactions such as:
 
-- trading frequency
-- position sizing patterns
-- emotional volatility
-- reaction to losses
+- Revenge trading after losses
+- Overexposure during volatility
+- Sudden leverage increases
+- Emotional decision-making
 
----
+Traditional tools analyze markets.
 
-### Emotional Circuit Breaker
-
-Detects patterns like:
-
-- revenge trading
-- sudden risk escalation
-- overtrading behavior
-
-When detected, HachiClaw provides intelligent alerts to help users pause and reassess.
+HachiClaw analyzes behavior.
 
 ---
 
-### Behavioral Footprint Tracking
+## 🐺 The Solution
 
-Inspired by the Husky pawprints concept.
+HachiClaw AI introduces a Behavioral Protection Layer composed of several modules:
 
-The system tracks behavioral footprints across time to help users understand their decision patterns.
-
----
-
-### ClawEdu Capsules
-
-Short contextual learning modules triggered by behavior.
-
-Example:
-
-"Overtrading detected. Professional traders limit daily trades to reduce emotional bias."
+- Behavioral Engine – analyzes user trading behavior
+- Emotional Circuit Breaker – detects behavioral risk levels
+- Claw Agents – intelligent agents that trigger warnings or learning prompts
+- Guardian Mode – protective awareness system activated during high-risk behavior
 
 ---
 
-### Ghost Trade Simulator
+## 👁️ Dual Vision Concept
 
-Allows users to simulate alternative outcomes.
+Inspired by the heterochromia of a husky's eyes:
 
-Example:
+👁 Opportunity Vision → monitors trading opportunities
 
-"If this trade had been delayed by 15 minutes, the outcome would have been +2.3%."
+👁 Risk Vision → monitors behavioral risk
 
-This encourages patience and strategic thinking.
-
----
-
-## Goal
-
-HachiClaw AI aims to:
-
-• reduce emotional trading losses  
-• improve crypto education  
-• increase long-term user retention  
-• strengthen Binance's ecosystem
+This dual perspective helps maintain balanced trading awareness.
 
 ---
 
-## Architecture Overview
+## 🧩 System Architecture
 
-HachiClaw AI is built as a modular multi-agent system:
-
-HachiClaw Core  
-Dual Vision Engine  
-Behavioral DNA Engine  
+User Activity  
+↓  
+Behavioral Engine  
+↓  
+Risk Evaluation  
+↓  
 Emotional Circuit Breaker  
-ClawEdu Learning Capsules  
-Ghost Trade Simulator
+↓  
+Claw Agents  
+↓  
+Guardian Mode / Learning Prompts
 
 ---
 
-## Status
+## 🧪 Demo Simulation
 
-Concept Prototype — OpenClaw AI Campaign Submission
+A small simulation is included to demonstrate how HachiClaw evaluates behavioral risk.
+
+Run:
+
+python demo/simulation.py
+
+Example scenario simulated:
+
+- Multiple recent losses
+- Increased leverage
+- Higher trading frequency
+
+The system evaluates risk and decides whether to trigger Guardian Mode or a learning prompt.
+
+---
+
+## 🎯 Goal of the Project
+
+HachiClaw AI is a conceptual prototype designed to explore how behavioral intelligence could improve risk awareness for crypto traders.
+
+It does not provide trading signals or financial advice.
+
+---
+
+## 🚀 Future Ideas
+
+- Behavioral footprint tracking
+- Adaptive learning prompts
+- Binance API integration (conceptual)
+- Behavioral risk dashboards
+
+---
+
+## 🐾 Philosophy
+
+Sometimes the biggest risk in trading is not the market.
+
+It’s the trader’s reaction to it.
+
+HachiClaw AI aims to make those reactions visible before they become costly.

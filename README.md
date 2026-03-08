@@ -50,19 +50,25 @@ This dual perspective helps maintain balanced trading awareness.
 
 ## 🧩 System Architecture
 
-User Activity  
-↓  
-Behavioral Engine  
-↓  
-Risk Evaluation  
-↓  
-Emotional Circuit Breaker  
-↓  
-Claw Agents  
-↓  
-Guardian Mode / Learning Prompts
+## 🔷 System Flow
 
----
+```
+User Activity
+      ↓
+Behavioral Engine
+      ↓
+Behavior Score
+      ↓
+Behavioral Footprint Tracker
+      ↓
+Emotional Circuit Breaker
+      ↓
+Guardian Mode
+      ↓
+Claw Agents
+      ↓
+User Awareness Feedback
+```
 
 ## 🧪 Demo Simulation
 

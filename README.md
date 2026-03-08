@@ -112,3 +112,18 @@ Sometimes the biggest risk in trading is not the market.
 It’s the trader’s reaction to it.
 
 HachiClaw AI aims to make those reactions visible before they become costly.
+
+---
+
+## 🔗 Potential Binance Integration
+
+HachiClaw AI could be integrated with trading platforms such as Binance to provide behavioral risk awareness.
+
+Possible integration points:
+
+- Monitoring trading frequency and leverage changes
+- Detecting emotional escalation patterns
+- Activating Guardian Mode during high-risk trading behavior
+- Delivering contextual risk alerts to users
+
+The goal is not to block trading activity but to increase **behavioral awareness** and promote responsible trading.

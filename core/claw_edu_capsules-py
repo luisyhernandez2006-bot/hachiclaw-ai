@@ -1,11 +1,15 @@
-class ClawEduCapsules:
+# agents/claw_edu_capsules.py
 
-    def get_capsule(self, trigger):
+capsules = {
+    "revenge_trading":
+        "Revenge trading occurs when traders try to recover losses quickly. This often increases risk.",
 
-        capsules = {
-            "overtrading": "Overtrading is a major cause of retail losses.",
-            "revenge_trading": "Trading after losses increases emotional bias.",
-            "risk_exposure": "Always limit risk per trade."
-        }
+    "overtrading":
+        "Overtrading happens when too many trades are placed in a short period of time.",
 
-        return capsules.get(trigger, "Stay disciplined.")
+    "high_leverage":
+        "Using high leverage increases both potential profit and potential loss.",
+
+    "loss_streak":
+        "Multiple losses in a row can create emotional pressure that affects decision making."
+}

@@ -33,4 +33,4 @@ class BehavioralEngine:
             position_score * self.weights["position_size_change"]
         )
 
-        return round(behavior_score, 2)
+        return round(behavior_score, * 100)

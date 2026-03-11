@@ -35,7 +35,7 @@ class HachiClawCore:
             self.guardian_agent.intervene("high")
 
         elif risk_state == "LEARNING_MOMENT":
-            self.educator_agent.deliver_capsule("risk_managment")
+            self.educator_agent.deliver_capsule("risk_management")
 
         return {
             "behavior_score": behavior_score,

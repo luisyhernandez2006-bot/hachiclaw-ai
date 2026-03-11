@@ -3,6 +3,7 @@
 		Determines the level of intervention based on the behavioral score.
 		Author: HachiClaw AI
 		"""
+
 		class EmotionalCircuitBreaker:
 		
 		def __init__(self):

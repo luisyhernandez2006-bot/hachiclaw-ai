@@ -25,7 +25,7 @@ class HachiClawCore:
         footprint = self.footprint_tracker.generate_footprint(user_data)
 
         # 3️⃣ Evaluate risk level
-        risk_state = self.risk_engine.evaluate_risk(behavior_score)
+        risk_state, risk_details = self.risk_engine.evaluate_risk(behavior_score)
 
         # 4️⃣ Activate Guardian Mode
         guardian_state = self.guardian.activate(behavior_score)
@@ -40,6 +40,7 @@ class HachiClawCore:
         return {
             "behavior_score": behavior_score,
             "risk_state": risk_state,
+            "risk_details": risk_details,
             "footprint": footprint,
             "guardian": guardian_state
         }

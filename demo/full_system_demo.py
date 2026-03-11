@@ -10,7 +10,8 @@ user_behavior = {
 
 def run_demo():
 
-    print("🐺 HachiClaw AI - Full System Demo\n")
+    print("🐺 HachiClaw AI - Behavioral Intelligence Demo\n")
+    print("--------------------------------------------\n")
 
     system = HachiClawCore()
 

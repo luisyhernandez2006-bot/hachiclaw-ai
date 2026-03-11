@@ -2,7 +2,7 @@ from behavioral.behavioral_engine import BehavioralEngine
 from risk.emotional_circuit_breaker import EmotionalCircuitBreaker
 from guardian.guardian_mode import GuardianMode
 from tracking.behavioral_footprint import BehavioralFootprintTracker
-from agents.claw_agents import ClawRisk, ClawEducator
+from agents.claw_agents import ClawGuardian, ClawEducator
 
 
 class HachiClawCore:
@@ -13,7 +13,7 @@ class HachiClawCore:
         self.guardian = GuardianMode()
         self.footprint_tracker = BehavioralFootprintTracker()
 
-        self.risk_agent = ClawRisk()
+        self.guardian_agent = ClawGuardian()
         self.educator_agent = ClawEducator()
 
     def process_user_activity(self, user_data):
@@ -32,10 +32,10 @@ class HachiClawCore:
 
         # 5️⃣ Agents react
         if risk_state == "HIGH_RISK":
-            self.risk_agent.intervene()
+            self.guardian_agent.intervene("high")
 
         elif risk_state == "LEARNING_MOMENT":
-            self.educator_agent.educate()
+            self.educator_agent.deliver_capsule("risk_managment")
 
         return {
             "behavior_score": behavior_score,

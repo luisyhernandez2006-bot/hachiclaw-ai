@@ -19,7 +19,7 @@ class HachiClawCore:
     def process_user_activity(self, user_data):
 
         # 1️⃣ Analyze behavior
-        behavior_score = self.behavior_engine.analyze_behavior(user_data)
+        behavior_score = round(self.behavior_engine.analyze_behavior(user_data)* 100, 2)
 
         # 2️⃣ Generate behavioral footprint
         footprint = self.footprint_tracker.generate_footprint(user_data)

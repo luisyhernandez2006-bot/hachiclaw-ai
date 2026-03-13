@@ -85,9 +85,6 @@ Risk: HIGH_RISK
 Guardian: ACTIVE
 Agent says: Guardian Alert: Emotional trading detected. Suggest cooldown.
 
-<img width="500" alt="Captura" src="assets/demo_output.png" />
-
-
 ## 🧪 Demo Simulation
 
 A small simulation is included to demonstrate how HachiClaw evaluates behavioral risk.

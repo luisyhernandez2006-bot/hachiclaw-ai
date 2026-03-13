@@ -38,7 +38,7 @@ class ClawEducator:
 
 class ClawTracker:
 
-    def analyze_behavior(self, trades_today, losses_in_row):
+    def analyze_behavior(self, trade_frequency, losses_in_row):
 
         if trades_today > 15:
             return "Behavior Pattern: Possible overtrading detected."

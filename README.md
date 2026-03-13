@@ -70,7 +70,24 @@ Guardian Mode
 Claw Agents
       ↓
 User Awareness Feedback
-```
+
+
+---
+
+## ⚡ Live Execution Example (Output)
+
+When the system detects a user with 4 recent losses, high frequency, and leverage spikes, this is the real-time response:
+
+```text
+--- HachiClaw AI Result ---
+Score: 80
+Risk: HIGH_RISK
+Guardian: ACTIVE
+Agent says: Guardian Alert: Emotional trading detected. Suggest cooldown.
+
+
+
+
 
 ## 🧪 Demo Simulation
 

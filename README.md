@@ -85,8 +85,7 @@ Risk: HIGH_RISK
 Guardian: ACTIVE
 Agent says: Guardian Alert: Emotional trading detected. Suggest cooldown.
 
-
-
+<img width="490" height="225" alt="Captura" src="https://github.com/user-attachments/assets/5ecc1519-bc2d-4e5a-9c37-a9e671ea0cd1" />
 
 
 ## 🧪 Demo Simulation

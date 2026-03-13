@@ -1,0 +1,31 @@
+📦 hachiclaw-ai
+ ┣ 📂 agents
+ ┃ ┣ 📜 claw_agents.py
+ ┃ ┗ 📜 claw_edu_capsules.py
+ ┣ 📂 assets
+ ┃ ┣ 📜 HachiClaw Architecture.png
+ ┃ ┣ 📜 agents.png
+ ┃ ┣ 📜 architecture-map.png
+ ┃ ┣ 📜 demo_output.png
+ ┃ ┣ 📜 dual vision system.png
+ ┃ ┣ 📜 guardian_mode.png
+ ┃ ┣ 📜 hachiclaw-logo.png
+ ┃ ┗ 📜 tasha.jpg
+ ┣ 📂 behavioral
+ ┃ ┗ 📜 behavioral_engine.py
+ ┣ 📂 core
+ ┃ ┗ 📜 hachiclaw_core.py
+ ┣ 📂 demo
+ ┃ ┣ 📜 full_system_demo.py
+ ┃ ┗ 📜 simulation.py
+ ┣ 📂 docs
+ ┃ ┗ 📜 architecture.md
+ ┣ 📂 guardian
+ ┃ ┗ 📜 guardian_mode.py
+ ┣ 📂 risk
+ ┃ ┗ 📜 emotional_circuit_breaker.py
+ ┣ 📂 tracking
+ ┃ ┗ 📜 behavioral_footprint.py
+ ┣ 📜 LICENSE
+ ┣ 📜 README.md
+ ┗ 📜 requirements.txt

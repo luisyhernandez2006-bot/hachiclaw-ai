@@ -1,10 +1,10 @@
 # 🐺 HachiClaw AI
 
-Prototype built for the AI x Binance builder challenge
+Prototype built for AI Agent Challenge
 
 Behavioral Intelligence Layer for Safer Crypto Trading
 
-HachiClaw AI is a conceptual AI system designed to help crypto traders become more aware of behavioral risks during trading.
+HachiClaw AI is a conceptual AI assistant designed for the OpenClaw ecosystem. It helps crypto traders become more aware of behavioral risks by focusing on the most volatile variable: the human mind.
 
 Instead of focusing only on market predictions, HachiClaw analyzes trader behavior patterns and detects signals that may indicate emotional escalation or impulsive decisions.
 

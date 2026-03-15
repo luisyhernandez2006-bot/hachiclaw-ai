@@ -21,9 +21,8 @@ Many retail traders lose funds not because they lack market information, but bec
 - Sudden leverage increases
 - Emotional decision-making
 
-Traditional tools analyze markets.
-
-HachiClaw analyzes behavior.
+Market tools analyze charts; 
+HachiClaw analyzes the trader.
 
 ---
 
@@ -69,7 +68,7 @@ Guardian Mode
       ↓
 Claw Agents
       ↓
-User Awareness Feedback
+Behavioral Feedback Loop
 
 
 ---

@@ -23,6 +23,8 @@
  ┃ ┗ 📜 simulation.py
  ┣ 📂 docs
  ┃ ┗ 📜 architecture.md
+ ┣ full_system_demo_video
+ ┃ ┗ HachiClaw AI Behavioral Intelligence System Demo.webm
  ┣ 📂 guardian
  ┃ ┗ 📜 guardian_mode.py
  ┣ 📂 risk

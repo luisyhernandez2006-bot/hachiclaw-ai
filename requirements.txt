@@ -1,4 +1,4 @@
 # HachiClaw AI - Project Requirements
-# Prototype built for the AI x Binance Challenge
+# Prototype built for the OpenClaw x Binance Challenge?
 
 python>=3.9

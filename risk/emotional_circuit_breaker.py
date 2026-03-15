@@ -1,7 +1,7 @@
 """
 HachiClaw AI - Emotional Circuit Breaker
 Determines the level of intervention based on the behavioral score.
-Author: HachiClaw AI
+Author: SoyCryptoGirl.
 """
 
 class EmotionalCircuitBreaker:
